@@ -1,3 +1,5 @@
 #LICENSE
 
+Added some stuff.
+
 Copyright 2017 - 2018
