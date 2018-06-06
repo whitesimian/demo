@@ -7,6 +7,4 @@ Modification.
 
 #SOME UPDATES
 
-On a new branch.
-
-something.
+Updates made on master on GitHub before rebase.
